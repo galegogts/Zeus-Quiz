@@ -1,0 +1,198 @@
+{
+  "objQuiz":[
+    {
+      "slug":"CSS - 01",
+      "title":"CSS 01",
+      "quiz" : [
+        {
+          "question": "O que é CSS?",
+          "answers": [
+            "CSS é uma linguagem de marcação usada para estruturar o conteúdo de páginas web",
+            "Cascading style sheets",
+            "CSS"
+          ],
+          "rightQuestion": "Cascading style sheets"
+        },
+        {
+          "question": "Para que serve o CSS?",
+          "answers": [
+            "Para estilizar elementos HTML",
+            "Para controlar o layout de múltiplas páginas da web",
+            "Para aplicar estilos como cor, fonte, espaçamento e layout"
+          ],
+          "rightQuestion": "Para aplicar estilos como cor, fonte, espaçamento e layout"
+        },
+        {
+          "question": "Quais são os três métodos principais de aplicar CSS a uma página HTML?",
+          "answers": [
+            "Inline, interno (no cabeçalho), e externo (arquivo CSS)",
+            "Estilo embutido, estilo incorporado e folha de estilo externa",
+            "Inline, embedded, and external"
+          ],
+          "rightQuestion": "Inline, interno (no cabeçalho), e externo (arquivo CSS)"
+        },
+        {
+          "question": "Como você define a cor de fundo de uma página usando CSS?",
+          "answers": [
+            "Usando a propriedade 'background-color'",
+            "background-color: valor;",
+            "background-color"
+          ],
+          "rightQuestion": "Usando a propriedade 'background-color'"
+        },
+        {
+          "question": "O que significa 'cascading' no CSS?",
+          "answers": [
+            "Significa que os estilos podem ser aplicados em camadas, com regras específicas sobre como os estilos são aplicados se houver conflitos",
+            "Refere-se à forma como as regras de estilo são aplicadas de cima para baixo na folha de estilo",
+            "Refere-se à prioridade e herança dos estilos"
+          ],
+          "rightQuestion": "Significa que os estilos podem ser aplicados em camadas, com regras específicas sobre como os estilos são aplicados se houver conflitos"
+        },
+        {
+          "question": "Como você faz para que um elemento tenha uma borda sólida de 1px de espessura e de cor preta?",
+          "answers": [
+            "Usando a propriedade 'border: 1px solid black;'",
+            "border: 1px solid black;",
+            "border"
+          ],
+          "rightQuestion": "Usando a propriedade 'border: 1px solid black;'"
+        },
+          {
+          "question": "O que é um seletor em CSS?",
+          "answers": [
+            "É uma expressão que seleciona os elementos HTML que você deseja estilizar",
+            "Seletor",
+            "Elemento HTML que você estiliza"
+          ],
+          "rightQuestion": "É uma expressão que seleciona os elementos HTML que você deseja estilizar"
+        },
+        {
+          "question": "Qual é a sintaxe básica de uma regra CSS?",
+          "answers": [
+            "seletor { propriedade: valor; }",
+            "selector { property: value; }",
+            "seletor { propriedade: valor }"
+          ],
+          "rightQuestion": "seletor { propriedade: valor; }"
+        },
+        {
+          "question": "Como você pode aplicar múltiplas classes a um único elemento HTML?",
+          "answers": [
+            "Separando os nomes das classes com um espaço",
+            "class='classe1 classe2'",
+            "Usando espaços entre os nomes das classes"
+          ],
+          "rightQuestion": "Separando os nomes das classes com um espaço"
+        },
+        {
+          "question": "O que é uma pseudo-classe em CSS?",
+          "answers": [
+            "É uma palavra-chave adicionada a um seletor que especifica um estado especial do elemento",
+            "Pseudo-classe",
+            "É um seletor que define um estado especial de um elemento"
+          ],
+          "rightQuestion": "É uma palavra-chave adicionada a um seletor que especifica um estado especial do elemento"
+        }
+      ]
+    },
+
+    {
+      "slug":"CSS - 02",
+      "title":"CSS 02",
+      "quiz" : [
+        {
+          "question": "O que é CSS?",
+          "answers": [
+            "CSS é uma linguagem de marcação usada para estruturar o conteúdo de páginas web",
+            "Cascading style sheets",
+            "CSS"
+          ],
+          "rightQuestion": "Cascading style sheets"
+        },
+        {
+          "question": "Para que serve o CSS?",
+          "answers": [
+            "Para estilizar elementos HTML",
+            "Para controlar o layout de múltiplas páginas da web",
+            "Para aplicar estilos como cor, fonte, espaçamento e layout"
+          ],
+          "rightQuestion": "Para aplicar estilos como cor, fonte, espaçamento e layout"
+        },
+        {
+          "question": "Quais são os três métodos principais de aplicar CSS a uma página HTML?",
+          "answers": [
+            "Inline, interno (no cabeçalho), e externo (arquivo CSS)",
+            "Estilo embutido, estilo incorporado e folha de estilo externa",
+            "Inline, embedded, and external"
+          ],
+          "rightQuestion": "Inline, interno (no cabeçalho), e externo (arquivo CSS)"
+        },
+        {
+          "question": "Como você define a cor de fundo de uma página usando CSS?",
+          "answers": [
+            "Usando a propriedade 'background-color'",
+            "background-color: valor;",
+            "background-color"
+          ],
+          "rightQuestion": "Usando a propriedade 'background-color'"
+        },
+        {
+          "question": "O que significa 'cascading' no CSS?",
+          "answers": [
+            "Significa que os estilos podem ser aplicados em camadas, com regras específicas sobre como os estilos são aplicados se houver conflitos",
+            "Refere-se à forma como as regras de estilo são aplicadas de cima para baixo na folha de estilo",
+            "Refere-se à prioridade e herança dos estilos"
+          ],
+          "rightQuestion": "Significa que os estilos podem ser aplicados em camadas, com regras específicas sobre como os estilos são aplicados se houver conflitos"
+        },
+        {
+          "question": "Como você faz para que um elemento tenha uma borda sólida de 1px de espessura e de cor preta?",
+          "answers": [
+            "Usando a propriedade 'border: 1px solid black;'",
+            "border: 1px solid black;",
+            "border"
+          ],
+          "rightQuestion": "Usando a propriedade 'border: 1px solid black;'"
+        },
+          {
+          "question": "O que é um seletor em CSS?",
+          "answers": [
+            "É uma expressão que seleciona os elementos HTML que você deseja estilizar",
+            "Seletor",
+            "Elemento HTML que você estiliza"
+          ],
+          "rightQuestion": "É uma expressão que seleciona os elementos HTML que você deseja estilizar"
+        },
+        {
+          "question": "Qual é a sintaxe básica de uma regra CSS?",
+          "answers": [
+            "seletor { propriedade: valor; }",
+            "selector { property: value; }",
+            "seletor { propriedade: valor }"
+          ],
+          "rightQuestion": "seletor { propriedade: valor; }"
+        },
+        {
+          "question": "Como você pode aplicar múltiplas classes a um único elemento HTML?",
+          "answers": [
+            "Separando os nomes das classes com um espaço",
+            "class='classe1 classe2'",
+            "Usando espaços entre os nomes das classes"
+          ],
+          "rightQuestion": "Separando os nomes das classes com um espaço"
+        },
+        {
+          "question": "O que é uma pseudo-classe em CSS?",
+          "answers": [
+            "É uma palavra-chave adicionada a um seletor que especifica um estado especial do elemento",
+            "Pseudo-classe",
+            "É um seletor que define um estado especial de um elemento"
+          ],
+          "rightQuestion": "É uma palavra-chave adicionada a um seletor que especifica um estado especial do elemento"
+        }
+      ]
+    }
+
+  ]
+}

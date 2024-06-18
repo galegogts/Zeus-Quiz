@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root {
+    --default-black-color: #1e1e20;
+    --box-black-color: #2E2E30;
+    --default-white-color: #FFFFFF;
+    --primary-color: #6F57FF;
+    --secondary-color: #ff6f57;
+    --tertiary-color: #57ff6f;
+  }
+*{
+    font-family: "Outfit", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.display-none{
+  display: none!important;
+}
+
+.btn, a,button{
+  background-color: none;
+  min-width: 80px;
+  height: 25px;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--default-white-color);
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}.btn:hover{
+  border: 1px solid var(--tertiary-color);
+}.btn:active{
+  background-color: var(--box-black-color);
+}
+
+.btn-primary-color{
+  background-color: var(--primary-color);
+}.btn-secondary-color{
+  background-color: var(--secondary-color);
+}.btn-tertiary-color{
+  background-color: var(--tertiary-color);
+}.btn-black-color{
+   background-color: var(--box-black-color);
+}
